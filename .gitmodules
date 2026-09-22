@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "dyn"]
 	path = dyn
-	url = https://github.com/cran/dyn
+	url = https://github.com/markleeds2/dyn
